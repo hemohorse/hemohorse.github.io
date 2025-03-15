@@ -7,7 +7,7 @@ subtitle: <b>Game Developer</b>. Gameplay Design. User Interface Design. Lover o
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>721 WEST 30TH ST</p>
     <p>LOS ANGELES, CA 90007</p>
