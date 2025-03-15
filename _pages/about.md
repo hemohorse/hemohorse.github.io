@@ -30,6 +30,6 @@ I'm a game developer from Los Angeles with a special flare for building incredib
 
 I'm currently advancing my education and experience as a junior in the University of Southern California's [Game Design Program](https://games.usc.edu/ourprogram).
 
-I love to push the boundaries of what's conventional within game design; I have a passion for experimentation, and I find that when you break systems down to their key components, it creates room for play within design. That space of "play within design" is where everybody starts their design journey, so I think it's important to keep in touch with it.
+I love to push the boundaries of what's conventional within game design; I have a passion for experimentation, and I find that when you break systems down to their key components, it creates room for play <i>within</i> design.
 
 When I'm not making games, I usually spend the rest of my time winning in them... or drawing comics, just for fun ♥
