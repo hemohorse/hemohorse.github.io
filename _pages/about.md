@@ -28,7 +28,7 @@ latest_posts:
 
 I'm a game developer from Los Angeles with a special flare for building incredible interactive experiences.
 
-I'm currently advancing my education and experience as a junior in the [University of Southern California's Game Design Program](https://games.usc.edu).
+I'm currently advancing my education and experience as a junior in the University of Southern California's [Game Design Program](https://games.usc.edu/ourprogram).
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
