@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Game Developer</b>. Gameplay Design. User Interface Design. Lover of Punchy, Colorful Experiences.
+subtitle: <b>Game Developer</b>. Gameplay Design. User Interface Design. Lover of Punchy, Colorful Games.
 
 profile:
   align: right
