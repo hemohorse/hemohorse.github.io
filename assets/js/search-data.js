@@ -451,6 +451,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/dirkquizon", "_blank");
         },
       },{
+        id: 'social-itch_url',
+        title: 'Itch_url',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
