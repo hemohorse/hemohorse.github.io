@@ -426,7 +426,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-apocalunch-rush",
           title: 'APOCALUNCH RUSH',
-          description: "with background image",
+          description: "is a unique first-person cooking and tower defense “griller-killer.”",
           section: "Projects",handler: () => {
               window.location.href = "/projects/burgz/";
             },},{
