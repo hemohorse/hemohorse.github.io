@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "post-a-post-with-image-galleries",
+  },{id: "nav-resume",
+          title: "resume",
+          description: "Here&#39;s a web version of my resume for your web-viewing pleasure. Alternatively, you can access a PDF version of my resume by pressing the PDF button.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/resume/";
+          },
+        },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
@@ -377,12 +384,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-apocalunch-rush",
-          title: 'APOCALUNCH RUSH',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -422,6 +424,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-apocalunch-rush",
+          title: 'APOCALUNCH RUSH',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/burgz/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
