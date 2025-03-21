@@ -7,13 +7,10 @@ importance: 1
 category: work
 related_publications: false
 ---
-    ---
-    Clock in, cook burgers, serve customers, shoot zombies, and clock out in this immersive minimum wage zombie apocalypse experience for the PC.
-    ---
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        This project was developed in 15 weeks as apart of the <a href="https://games.usc.edu/">USC Games</a> CTIN-489 Intermediate Games Project course.
+        This project was developed in 15 weeks as apart of the <a href="https://games.usc.edu/">USC Games</a> CTIN-489 Intermediate Games Project course in collaboration with <a href="https://www.berklee.edu/">Berklee College of Music</a>.
 
         As Co-Designer, I worked on a team with one other designer to 
     </div>
